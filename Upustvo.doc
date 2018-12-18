@@ -15,3 +15,9 @@ https://www.oracle.com/technetwork/middleware/glassfish/downloads/index.html
 
 Na GlassFish server dodamo war fajl i zatim pokrenemo aplikaciju. War fajl se nalazi u target folderu. 
 
+Na MySql serveru je najbolje otvoriti novu konekciju sa
+Username: root
+Password: 123
+
+I zatim importujemo sql skriptu shop.sql
+
