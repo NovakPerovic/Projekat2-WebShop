@@ -1,0 +1,17 @@
+
+Opis programa: 
+MVC Web aplikacija kreirana  upotrebom  maven-a, spring-a i hibernate-a. Web aplikacija prestavlja web prodavnicu i pokrece se sa GlassFish servera.
+
+Pokretanje programa:
+Za pokretanje programa potrebno je imati:
+
+1. JVM (Java Virtual Machine) link za preuzimanje https://www.oracle.com/technetwork/java/javase/downloads/index.html JVM se nalazi u sklopu JDK ili JRE  
+
+2.MySql baza podataka link za preuzimanje
+https://dev.mysql.com/downloads/installer/
+
+3.GlassFish server link za preuzimanje
+https://www.oracle.com/technetwork/middleware/glassfish/downloads/index.html
+
+Na GlassFish server dodamo war fajl i zatim pokrenemo aplikaciju. War fajl se nalazi u target folderu. 
+
